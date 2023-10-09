@@ -30,6 +30,8 @@ class _FMPageState extends State<FMPage> {
     print(' avsh$url');
   }
 
+  //Add your links here
+
   List staticFmLink = [
     "https://dcs.megaphone.fm/LI9282413157.mp3?key=4f7c3d2b0c8b784721161ee127927ecc&request_event_id=4cf0e5fe-e715-44c0-ac43-70807bcc82f9",
     "http://old.rbn.org.np/public/admin/plugin/kcfinder/upload/files/Sadak%20surukshya%202079-03-05%281%29.mp3",
@@ -37,6 +39,7 @@ class _FMPageState extends State<FMPage> {
     "https://radio-broadcast.ekantipur.com/stream/",
   ];
 
+  //Also give the name for it
   List staticFmName = [
     "Mega",
     "Old Run",
